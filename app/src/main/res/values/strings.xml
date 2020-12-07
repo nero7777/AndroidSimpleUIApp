@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UdacityFirstUIApp</string>
+    <string name="textview">TextView</string>
+    <string name="main_image">main image</string>
+    <string name="happy_birthday_omkar">Happy Birthday , Omkar!!</string>
+    <string name="from_samarth">from , Samarth!!</string>
+</resources>
